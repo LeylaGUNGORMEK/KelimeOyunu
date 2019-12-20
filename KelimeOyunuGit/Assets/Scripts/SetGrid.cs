@@ -9,6 +9,7 @@ public class SetGrid : MonoBehaviour
     public GameObject letterBox;
 
     public int rows, cols;
+    float xStartPosition;
     public Vector2 cellSize;
     public Letters[] letters;
 
@@ -31,8 +32,11 @@ public class SetGrid : MonoBehaviour
             else
             {
                 cellSize.y = cellSize.x;
+                
             }
         }
+        xStartPosition = (cols - rows) * cellSize.x / 2  ;
+
         SetGridArea(rows, cols, cellSize, letters);
 
     }
@@ -43,19 +47,17 @@ public class SetGrid : MonoBehaviour
         {
             for (int j = 0; j < cols; j++)
             {
-                Vector2 pos = new Vector2((j * cellSize.x) + cellSize.x / 2, (i * cellSize.y) + cellSize.y / 2);
+                Vector2 pos = new Vector2(((j * cellSize.x) + cellSize.x / 2) - xStartPosition, (i * cellSize.y) + cellSize.y / 2);
                 for (int k = 0; k < letters.Length; k++)
                 {
-                    if (letters[k].rowIndex == i && letters[k].colIndex == j)
+                    if (letters[k].rowIndex == i && letters[k].colIndex == j && letters[k].letter != "0")
                     {
-                        if (letters[k].letter != "0")
-                        {
-                            createBox = Instantiate(letterBox, transform);
-                            createBox.transform.localPosition = pos;
-                            createBox.GetComponent<RectTransform>().sizeDelta = cellSize;
-                            createBox.name = letters[k].letter;
-                            createBox.transform.GetChild(0).GetComponent<Image>().sprite = Resources.Load<Sprite>("alfabe/"+createBox.name);
-                        }
+                        createBox = Instantiate(letterBox, transform);
+                        createBox.transform.localPosition = pos;
+                        createBox.GetComponent<RectTransform>().sizeDelta = cellSize;
+                        createBox.name = letters[k].letter;
+                        createBox.transform.GetChild(0).GetComponent<Image>().sprite = Resources.Load<Sprite>("alfabe/"+createBox.name);
+                        
 
                     }
                 }
