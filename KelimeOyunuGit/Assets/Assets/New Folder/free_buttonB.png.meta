@@ -1,0 +1,1227 @@
+fileFormatVersion: 2
+guid: df04401b2a6431a4c94ded3d9cc8ae65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -977287505649150220
+    second: free_buttonB_0
+  - first:
+      213: 3731582665801756242
+    second: free_buttonB_1
+  - first:
+      213: 969468272517318077
+    second: free_buttonB_2
+  - first:
+      213: 6413966825855749209
+    second: free_buttonB_3
+  - first:
+      213: 6546260080825934350
+    second: free_buttonB_4
+  - first:
+      213: 3069242300584368584
+    second: free_buttonB_5
+  - first:
+      213: 7468292528591911129
+    second: free_buttonB_6
+  - first:
+      213: -6713317634441638006
+    second: free_buttonB_7
+  - first:
+      213: -1742711422052033719
+    second: free_buttonB_8
+  - first:
+      213: -8753717062033027820
+    second: free_buttonB_9
+  - first:
+      213: 6740488424533436503
+    second: free_buttonB_10
+  - first:
+      213: 6891246071114599615
+    second: free_buttonB_11
+  - first:
+      213: 2488785449377431181
+    second: free_buttonB_12
+  - first:
+      213: -6573123376209759893
+    second: free_buttonB_13
+  - first:
+      213: -3378189821933933530
+    second: free_buttonB_14
+  - first:
+      213: -5337313562886860858
+    second: free_buttonB_15
+  - first:
+      213: -9025490352981593956
+    second: free_buttonB_16
+  - first:
+      213: -4508316836393164651
+    second: free_buttonB_17
+  - first:
+      213: -1914125747268951372
+    second: free_buttonB_18
+  - first:
+      213: -5211224329313933257
+    second: free_buttonB_19
+  - first:
+      213: 5788614810191160686
+    second: free_buttonB_20
+  - first:
+      213: -543356000299844412
+    second: free_buttonB_21
+  - first:
+      213: 5764924824252676074
+    second: free_buttonB_22
+  - first:
+      213: -2175572502723460320
+    second: free_buttonB_23
+  - first:
+      213: -3791903984173076702
+    second: free_buttonB_24
+  - first:
+      213: 3517340291312027553
+    second: free_buttonB_25
+  - first:
+      213: -1450519059956814829
+    second: free_buttonB_26
+  - first:
+      213: -1351490840165969188
+    second: free_buttonB_27
+  - first:
+      213: 427788592204775849
+    second: free_buttonB_28
+  - first:
+      213: -6051433632319123482
+    second: free_buttonB_29
+  - first:
+      213: 6914122431279251183
+    second: free_buttonB_30
+  - first:
+      213: -6724597500725482908
+    second: free_buttonB_31
+  - first:
+      213: 4356904443717877907
+    second: free_buttonB_32
+  - first:
+      213: -3935343544245257477
+    second: free_buttonB_33
+  - first:
+      213: -5170275601311367816
+    second: free_buttonB_34
+  - first:
+      213: 1815564713643789056
+    second: free_buttonB_35
+  - first:
+      213: -3990622787930795581
+    second: free_buttonB_36
+  - first:
+      213: -2950020542337360865
+    second: free_buttonB_37
+  - first:
+      213: -5906897953105238327
+    second: free_buttonB_38
+  - first:
+      213: 1878255405702192451
+    second: free_buttonB_39
+  - first:
+      213: 3925662151987696773
+    second: free_buttonB_40
+  - first:
+      213: 7083675184842688305
+    second: free_buttonB_41
+  - first:
+      213: -5094320680534275719
+    second: free_buttonB_42
+  - first:
+      213: -8158046880305882822
+    second: free_buttonB_43
+  - first:
+      213: -3906775138746386741
+    second: free_buttonB_44
+  - first:
+      213: 530961268602687630
+    second: free_buttonB_45
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: free_buttonB_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3086
+        width: 483
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc0bcb1b83e79244825492f25e17594
+      internalID: -977287505649150220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_1
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 3086
+        width: 484
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cfe81f779de7d48bb26399766ca30f
+      internalID: 3731582665801756242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_2
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 3086
+        width: 483
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b842237d1773f2848b7a8584e7d80fb0
+      internalID: 969468272517318077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_3
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 3086
+        width: 484
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4059ad3c8c4354fb39a634ad0dd082
+      internalID: 6413966825855749209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_4
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 3086
+        width: 483
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd5c0a3e0c208447a633fa03729c70d
+      internalID: 6546260080825934350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_5
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 3086
+        width: 484
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb548863d948ac44397d062f1b9f4db6
+      internalID: 3069242300584368584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_6
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 3086
+        width: 484
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73708a20b9782d4daa09b02a7e9bf07
+      internalID: 7468292528591911129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2574
+        width: 483
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81a0cad40f1da44892b7f02954bfd0b
+      internalID: -6713317634441638006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_8
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2574
+        width: 484
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60fb75b7058f434cb9b8ad5ee530424
+      internalID: -1742711422052033719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_9
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2569
+        width: 483
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31126122b0bfb0f42b42c615f02943bc
+      internalID: -8753717062033027820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_10
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 2574
+        width: 487
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88723f718e1f4b74482842f47ffc8589
+      internalID: 6740488424533436503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_11
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 2569
+        width: 483
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231e1098906a84f4192aaa2045ed963d
+      internalID: 6891246071114599615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_12
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 2574
+        width: 484
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502b341fb668adf4e8004b2471bdfa0a
+      internalID: 2488785449377431181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_13
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 2574
+        width: 483
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04607a2e1f1130f4b90972ad4f8e6e1c
+      internalID: -6573123376209759893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2062
+        width: 484
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec6eeeb3875c5645a770b14f8e44a71
+      internalID: -3378189821933933530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2062
+        width: 490
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e58f8aae592c6b4f99d5d90495298c2
+      internalID: -5337313562886860858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_16
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2062
+        width: 483
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdc9c736bc06f84188a930f33fcb5e6
+      internalID: -9025490352981593956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_17
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2062
+        width: 484
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb394300d40f4742a66b2da87780422
+      internalID: -4508316836393164651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_18
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 2062
+        width: 483
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95850688264e3b44c9cf4b2835fa6f88
+      internalID: -1914125747268951372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_19
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 2062
+        width: 489
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7076eecab901a8248bacbdb9714fa21d
+      internalID: -5211224329313933257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_20
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 2062
+        width: 484
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63986f9da3749164d8e56644ae80782e
+      internalID: 5788614810191160686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1550
+        width: 485
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae83fad8480fc946873823921260efc
+      internalID: -543356000299844412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_22
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1550
+        width: 484
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab33758c274e76c4081883019a2ea7ec
+      internalID: 5764924824252676074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_23
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1550
+        width: 483
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75db6088e087af4499beea7815d3c2af
+      internalID: -2175572502723460320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_24
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1550
+        width: 484
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2846e519694c56f43bdef4c1ae110f4c
+      internalID: -3791903984173076702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_25
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 1550
+        width: 483
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f572d424eb77784a9eb282f24f67706
+      internalID: 3517340291312027553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_26
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1547
+        width: 484
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8888f702c9f4184190d57911201fc53
+      internalID: -1450519059956814829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_27
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 1550
+        width: 483
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdff202c476b8a4ea7abb8d928f88ca
+      internalID: -1351490840165969188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1039
+        width: 484
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b28f6f582dfcf42a5ee1c8f8fe283e
+      internalID: 427788592204775849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_29
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1039
+        width: 489
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4cdf0dc23ec914e8476d81f6559367
+      internalID: -6051433632319123482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_30
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1039
+        width: 483
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49ee39dcee382648a226164ecff77e8
+      internalID: 6914122431279251183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_31
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1039
+        width: 484
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d91c8c84248944a95e6838a5d4ea86
+      internalID: -6724597500725482908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_32
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 1039
+        width: 483
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f10c2e9727ccbd4c9257117c0ceacdd
+      internalID: 4356904443717877907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_33
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 1039
+        width: 489
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde5fa6891dde3f4c9f9355593ae350f
+      internalID: -3935343544245257477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_34
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 1039
+        width: 484
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fedfc0a47faf7340b84065fa6399651
+      internalID: -5170275601311367816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 526
+        width: 483
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0f9159d22f9a744aca271806405938
+      internalID: 1815564713643789056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_36
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 526
+        width: 484
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a01ac545c4abf04fb35f5df73bdc7ef
+      internalID: -3990622787930795581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_37
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 526
+        width: 483
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dcdbbfe23c1d34f946f844aa3f9d2c
+      internalID: -2950020542337360865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_38
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 526
+        width: 484
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2c4437aebf1294c8e308d9908c6844
+      internalID: -5906897953105238327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_39
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 526
+        width: 483
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fd7ccb1ca78a24d8d2255e6a2c59eb
+      internalID: 1878255405702192451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_40
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 526
+        width: 484
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2f701b732078144a6403ae448915be
+      internalID: 3925662151987696773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_41
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 526
+        width: 484
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889beb46736a237418edda10c5887713
+      internalID: 7083675184842688305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 483
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d653490f472e641b1f773aa0ae3beb
+      internalID: -5094320680534275719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_43
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 14
+        width: 484
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3a1a35e6490ef488872e7a0d055088
+      internalID: -8158046880305882822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_44
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 14
+        width: 483
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f87562e2902f2e40b4d5a153299d3fc
+      internalID: -3906775138746386741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_buttonB_45
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 14
+        width: 484
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab72e99db45fe6419ee11a4227937e0
+      internalID: 530961268602687630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8bd8dd50e9390ba4bbdf579aa3c9e908
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
