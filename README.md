@@ -1,3 +1,1 @@
 # KelimeOyunu
-Deneme
-dsanjsaasd
